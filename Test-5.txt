@@ -1,0 +1,5 @@
+Testing the git committing thing
+Now I've edited this file. 
+Updated to v1.4
+
+File modified
