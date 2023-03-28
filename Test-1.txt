@@ -1,1 +1,2 @@
 Testing the git committing thing
+Now I've edited this file
